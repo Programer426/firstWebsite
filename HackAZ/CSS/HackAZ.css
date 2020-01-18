@@ -1,0 +1,17 @@
+img{
+	width: 5%;
+	height: 12%;
+}
+
+#Page{
+	text-align: center;
+}
+
+ul#menu li {
+  display:inline;
+}
+
+
+input#search{
+	width: 100%;
+}
